@@ -9,14 +9,18 @@ How to use
 ----
 1. Clone the iOS-Demo from GitHub
 2. Build with Xcode and install it to your iOS Device(must be iOS 7 or later)
-3. When application opened, it will give you an application key
+3. When application opened, it will give you a demo application key
 4. Go to <a href="https://dashboard.pushmote.com">dashboard.pushmote.com</a>
   1. Register or login
-  2. Add application with the application key that iOS-Demo gave you, from "My Applications" menu
-  3. Add beacon with your beacon's details from "My Beacons" menu
-  4. Create campaign for your application and beacon from "My Campaigns" menu
+  2. Add application with the demo application key that iOS-Demo gave you, from "Applications" menu
+  3. Add beacon with your beacon's details from "Beacons" menu
+  4. Create scenarioboard for your application and beacon from "Scenarioboards" menu
 5. Tap to "Next" button on iOS-Demo application
 6. Get close to your beacon, voila!
+
+Documentation
+----
+<a href="https://pushmote.com/docs/step-by-step-creating-first-scenarioboard-on-pushmote/">Step by Step Creating Your First Scenarioboard</a>
 
 
 Got Questions?
@@ -26,4 +30,4 @@ Don't hesitate to ask for help from <a href="https://dashboard.pushmote.com/comm
 
 Version
 ----
-1.0
+1.1
