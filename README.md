@@ -30,4 +30,4 @@ Don't hesitate to ask for help from <a href="https://dashboard.pushmote.com/comm
 
 Version
 ----
-1.1
+1.2
