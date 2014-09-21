@@ -1,7 +1,7 @@
 Pushmote iOS Demo Application
 ============
 
-Simple demo app to see how Pushmote will work.
+Simple demo app to see how Pushmote works.
 
 
 
