@@ -1,6 +1,8 @@
 Pushmote iOS Demo Application
 ============
 
+[![Join the chat at https://gitter.im/Pushmote/iOS-Demo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Pushmote/iOS-Demo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Simple demo app to see how Pushmote works.
 
 
